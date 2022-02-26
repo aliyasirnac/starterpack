@@ -1,6 +1,6 @@
 # Java Spring Boot Starter Pack
 
-###Features
+### Features
 - Support provides sustainability
 - Simplifies your project
 ### You must create in project!
@@ -17,4 +17,4 @@
 
 ------------
 
-#Its done have nice codding
+# It's done have nice codding
