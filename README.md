@@ -7,7 +7,7 @@
 - Create entity folder 
  - dtos: create your dto classes in this folder
  - concretes: create your base classes in this folder 
-- configure your database at 
+- configure your database at `resources/application.properties`
 ------------
 
 - Create dataAccess
